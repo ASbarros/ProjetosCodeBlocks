@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521743481 source:c:\users\anderson\documents\arvorebinariabuscacomremocao\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1521743486 c:\users\anderson\documents\arvorebinariabuscacomremocao\tipoarvore.h
+
+1521743483 source:c:\users\anderson\documents\arvorebinariabuscacomremocao\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529194679 source:c:\users\anderson\documents\codeblocks\projetocomputacional4\main.cpp
+	<iostream>
+	<stdlib.h>
+

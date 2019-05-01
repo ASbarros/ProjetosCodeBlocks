@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534878614 source:c:\users\anderson\documents\codeblocks\4_periodo\aula_pratica20_08_2018\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

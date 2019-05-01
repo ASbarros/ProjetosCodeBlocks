@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539383428 source:c:\users\anderson\documents\codeblocks\2_periodo\tp2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	<string>
+

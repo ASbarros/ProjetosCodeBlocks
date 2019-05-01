@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523172777 source:c:\users\anderson\documents\codeblocks\primeiro_tp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"TipoArvore.h"
+
+1523171838 c:\users\anderson\documents\codeblocks\primeiro_tp\tipoarvore.h
+	<math.h>
+
+1523177815 source:c:\users\anderson\documents\codeblocks\primeiro_tp\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1523172777 source:c:\users\anderson\documents\codeblocks\primeiro_tp_exercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"TipoArvore.h"
+
+1523171838 c:\users\anderson\documents\codeblocks\primeiro_tp_exercicio1\tipoarvore.h
+	<math.h>
+
+1523230159 source:c:\users\anderson\documents\codeblocks\primeiro_tp_exercicio1\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+

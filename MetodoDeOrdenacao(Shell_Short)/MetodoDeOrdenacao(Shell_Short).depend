@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529986249 source:c:\users\anderson\documents\codeblocks\metododeordenacao(shell_short)\main.cpp
+	<iostream>
+	<time.h>
+
